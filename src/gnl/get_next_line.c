@@ -22,7 +22,7 @@ char	*get_next_line(int fd)
 		free_everything_gnl(&stash);
 		stash = NULL;
 		return (NULL);
-	}	
+	}
 	line = NULL;
 	stash_currently_read(fd, &stash);
 	if (!stash)

@@ -6,11 +6,12 @@
 /*   By: amaryllis <amaryllismain09@gmail.com>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/29 13:42:04 by tmalkawi          #+#    #+#             */
-/*   Updated: 2025/02/12 12:06:30 by tmalkawi         ###   ########.fr       */
+/*   Updated: 2025/05/07 12:14:48 by amaryllis        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+#include "get_next_line.h"
 
 char	*get_next_line(int fd)
 {

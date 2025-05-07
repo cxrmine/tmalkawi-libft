@@ -6,11 +6,12 @@
 /*   By: amaryllis <amaryllismain09@gmail.com>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/29 13:46:54 by tmalkawi          #+#    #+#             */
-/*   Updated: 2025/02/12 12:06:44 by tmalkawi         ###   ########.fr       */
+/*   Updated: 2025/05/07 12:14:39 by amaryllis        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+#include "get_next_line.h"
 
 size_t	my_strlen(const char *s)
 {

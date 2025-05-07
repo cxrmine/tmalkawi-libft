@@ -6,11 +6,12 @@
 /*   By: amaryllis <amaryllismain09@gmail.com>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/27 15:22:13 by tmalkawi          #+#    #+#             */
-/*   Updated: 2025/01/29 16:53:51 by amaryllis        ###   ########.fr       */
+/*   Updated: 2025/05/07 12:15:04 by amaryllis        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+#include "ft_printf.h"
 
 int	length_of_pointer(uintptr_t p)
 {

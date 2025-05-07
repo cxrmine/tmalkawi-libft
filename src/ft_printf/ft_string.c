@@ -6,11 +6,12 @@
 /*   By: amaryllis <amaryllismain09@gmail.com>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/23 16:32:45 by tmalkawi          #+#    #+#             */
-/*   Updated: 2025/01/29 16:53:51 by amaryllis        ###   ########.fr       */
+/*   Updated: 2025/05/07 12:15:02 by amaryllis        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+#include "ft_printf.h"
 
 int	ft_putstr_len(const char *s)
 {

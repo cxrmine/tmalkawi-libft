@@ -6,11 +6,12 @@
 /*   By: amaryllis <amaryllismain09@gmail.com>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/27 10:37:58 by tmalkawi          #+#    #+#             */
-/*   Updated: 2025/01/29 16:53:50 by amaryllis        ###   ########.fr       */
+/*   Updated: 2025/05/07 12:14:07 by amaryllis        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+#include "ft_printf.h"
 
 int	ft_putnbr_len(int n)
 {
